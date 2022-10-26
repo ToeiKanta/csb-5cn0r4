@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://toeikanta.github.io/csb-5cn0r4/static/css/main.b8c26462.chunk.css",
+    "main.js": "https://toeikanta.github.io/csb-5cn0r4/static/js/main.26e678da.chunk.js",
+    "main.js.map": "https://toeikanta.github.io/csb-5cn0r4/static/js/main.26e678da.chunk.js.map",
+    "runtime-main.js": "https://toeikanta.github.io/csb-5cn0r4/static/js/runtime-main.9179cf60.js",
+    "runtime-main.js.map": "https://toeikanta.github.io/csb-5cn0r4/static/js/runtime-main.9179cf60.js.map",
+    "static/js/2.54292b3b.chunk.js": "https://toeikanta.github.io/csb-5cn0r4/static/js/2.54292b3b.chunk.js",
+    "static/js/2.54292b3b.chunk.js.map": "https://toeikanta.github.io/csb-5cn0r4/static/js/2.54292b3b.chunk.js.map",
+    "index.html": "https://toeikanta.github.io/csb-5cn0r4/index.html",
+    "static/css/main.b8c26462.chunk.css.map": "https://toeikanta.github.io/csb-5cn0r4/static/css/main.b8c26462.chunk.css.map",
+    "static/js/2.54292b3b.chunk.js.LICENSE.txt": "https://toeikanta.github.io/csb-5cn0r4/static/js/2.54292b3b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9179cf60.js",
+    "static/js/2.54292b3b.chunk.js",
+    "static/css/main.b8c26462.chunk.css",
+    "static/js/main.26e678da.chunk.js"
+  ]
+}
